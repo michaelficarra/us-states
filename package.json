@@ -1,0 +1,15 @@
+{
+  "name": "us-states",
+  "version": "0.0.0",
+  "description": "mappings from USPS code to US state name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelficarra/us-states.git"
+  },
+  "keywords": ["US", "states", "state", "USPS", "postal", "code", "mapping"],
+  "author": "Michael Ficarra",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/michaelficarra/us-states/issues"
+  }
+}

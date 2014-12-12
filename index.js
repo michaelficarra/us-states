@@ -13,7 +13,7 @@ module.exports = {
   CA: 'California',
   CO: 'Colorado',
   CT: 'Connecticut',
-  DC: 'District of Solumbia',
+  DC: 'District of Columbia',
   DE: 'Delaware',
   FL: 'Florida',
   FM: 'Federated States of Micronesia',

@@ -1,6 +1,6 @@
 {
   "name": "us-states",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "mappings from USPS code to US state name",
   "repository": {
     "type": "git",

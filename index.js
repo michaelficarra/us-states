@@ -16,7 +16,6 @@ module.exports = {
   DC: 'District of Columbia',
   DE: 'Delaware',
   FL: 'Florida',
-  FM: 'Federated States of Micronesia',
   GA: 'Georgia',
   GU: 'Guam',
   HI: 'Hawaii',
